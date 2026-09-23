@@ -1,0 +1,1 @@
+sc_controller_level_cleanup();

@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"sc_debug",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"sc_debug",
+  "parent":{
+    "name":"DEBUG",
+    "path":"folders/Scripts/DEBUG.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

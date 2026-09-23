@@ -1,0 +1,16 @@
+Think Tower Defense, but on a bigger scale.
+
+Player controls a player which can roam around.
+They also manage their base and build.
+
+Player will be able to upgrade themselves.
+
+Games similar to what I want to base this game off: Riftbreaker.
+
+
+I want tower stats to live together like health and fire rate, so i can configure them from 1 spot
+similarly for enemies.
+
+I will have many unique enemies, and will prefer them to only run necessary code that they need to
+
+
