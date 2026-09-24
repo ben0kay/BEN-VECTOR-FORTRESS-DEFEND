@@ -1,4 +1,6 @@
 /// @description Creates the level's 1920 × 1080 camera.
+player = noone;
+
 camera_data = {
     camera_id: -1,
     width: GCFG.camera.width,

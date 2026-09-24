@@ -41,7 +41,7 @@ if (!sc_game_init())
 }
 
 function sc_controller_main_step(){
-	if (global.game.initialized && global.LevelState == LevelState.PLAYING)
+	if (global.game.initialized && global.LevelState == LevelState.PLAYING) // change to switch statement
     global.game.tick++;
 }
 
