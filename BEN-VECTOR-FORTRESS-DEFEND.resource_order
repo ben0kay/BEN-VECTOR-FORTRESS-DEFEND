@@ -20,6 +20,7 @@
     {"name":"o_enemy","order":4,"path":"objects/o_enemy/o_enemy.yy",},
     {"name":"o_hud_level","order":3,"path":"objects/o_hud_level/o_hud_level.yy",},
     {"name":"o_player","order":9,"path":"objects/o_player/o_player.yy",},
+    {"name":"o_solid","order":10,"path":"objects/o_solid/o_solid.yy",},
     {"name":"Enums","order":5,"path":"scripts/Enums/Enums.yy",},
     {"name":"Macros","order":6,"path":"scripts/Macros/Macros.yy",},
     {"name":"sc_config","order":4,"path":"scripts/sc_config/sc_config.yy",},
